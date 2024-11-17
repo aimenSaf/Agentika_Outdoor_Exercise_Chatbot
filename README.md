@@ -1,6 +1,6 @@
-# Agentika_Outdoor_exercise_based_on_weather.
+# Willow: Agetika Chat bot offereing the user the best time to Exercise Outdoors
 
-This AI agent suggests the optimal outdoor exercise time based on the weather. Aside from this, the chatbot also has a bunch of other features to make the user expeience more enjoyable like a weather-related games or challenges and activity or exercise recommendation according to the weather as well. 
+This AI agent, Willow, suggests the optimal outdoor exercise time based on the weather. Aside from this, the chatbot also has a bunch of other features to make the user expeience more enjoyable like a weather-related games or challenges and activity or exercise recommendation according to the weather as well. 
 
 # Features:
 1.  Weather-Related Games:
