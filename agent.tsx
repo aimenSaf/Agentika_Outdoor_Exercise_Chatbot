@@ -68,7 +68,7 @@ export default function WeatherAgent() {
     <Agent>
       <DefaultPrompts />
       <Prompt>Ask me when to go outside for exercise and what fun activities you can do today!</Prompt>
-      <TTS voiceEndpoint="elevenlabs:terrorblade:lblRnHLq4YZ8wRRUe8ld" />
+      <TTS voiceEndpoint="elevenlabs:scillia:kNBPK9DILaezWWUSHpF9" />
       
       <button onClick={() => fetchWeather()}>Check Weather for Exercise and Fun</button>
 
