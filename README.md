@@ -27,6 +27,11 @@ This AI agent, Willow, suggests the optimal outdoor exercise time based on the w
    providing user the optimal time to exercise based on the current day's forecast, weather based challenges to engage user and lastly activity recommendation for 
    a more personalized experience.
 
+# API Used:
+This project utilizes the react-agents library to create interactive agent-based functionality, integrating the ElevenLabs Text-to-Speech (TTS) API for generating natural-sounding speech. The ElevenLabs API provides a powerful endpoint for high-quality voice synthesis, enabling the application to convert text into speech dynamically. By specifying the voiceEndpoint, the project leverages a unique voice profile (elevenlabs:uni:PSAakCTPE63lB4tP9iNQ) to deliver a customized auditory experience. This integration enhances the user experience by adding a realistic and engaging voice interaction layer. The implementation is straightforward, leveraging react-agents components for seamless API interaction. 
+
+For getting weather forecast, I utilized the weather.api (https://www.weatherapi.com); it gave me a key which I incorporated into my code and is providing me real time data 
+
 ```bash
 # Command for installation
 git clone https://github.com/yourusername/your-repo.git
