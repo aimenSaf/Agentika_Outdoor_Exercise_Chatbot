@@ -10,7 +10,10 @@ This AI agent suggests the optimal outdoor exercise time based on the weather. A
     The AI Agent will suggest specific outdoor activities based on the current weather conditions. This will provide a more personalized user experience, allowing 
     the agent to not only inform about the suitability of outdoor exercise but also to recommend what type of activity might be best.
 3.  Optimal Exercise time:
-    The main idea behind this chat bot is to recommend the user the best or optimal time to go out and exercise based on the forecast for the entire day. 
+    The main idea behind this chat bot is to recommend the user the best or optimal time to go out and exercise based on the forecast for the entire day.
+4.  Agent Characteristics:
+    To give the user a more humanized experience, the agent - Willow - changes her appearnce based on the weather. If it is raining in real time, it will rain in 
+    her domain and she would put on a rain coat. She would reenact these actions for each weather.
 
 # Installation Steps:
 1. Setup the SDK:
